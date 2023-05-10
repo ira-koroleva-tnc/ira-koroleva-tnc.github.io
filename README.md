@@ -61,58 +61,58 @@ Relatively high precipitation for the Los Angeles area
 
 **Type 2**: Dams, reservoirs, and wetlands 
 
-Low vegetation cover 
-Level terrain 
-Very low urban development 
+Low vegetation cover  
+Level terrain  
+Very low urban development  
 
 **Type 3**: Foothill areas 
 
-Affluent and well-vegetated neighborhoods 
-Primarily residential uses 
-Moderate terrain 
-Moderate building site coverage and population density 
+Affluent and well-vegetated neighborhoods  
+Primarily residential uses  
+Moderate terrain  
+Moderate building site coverage and population density  
 
 **Type 4**: Urban parks and open space 
 
-High tree canopy coverage and green open space 
-Low urban development 
-Primarily parks, cemeteries, and golf courses 
+High tree canopy coverage and green open space  
+Low urban development  
+Primarily parks, cemeteries, and golf courses  
 
 **Type 5**: Valley arterial areas 
 
-Highest traffic density and traffic noise 
-High percentage of impervious surface 
-Low in vegetation 
-Primarily highways and surrounding neighborhoods 
+Highest traffic density and traffic noise  
+High percentage of impervious surface  
+Low in vegetation  
+Primarily highways and surrounding neighborhoods  
 
 **Type 6**: Valley less-developed areas 
 
-Moderate terrain, mostly in the San Fernando and San Gabriel Valleys 
-Relatively hotter and wetter weather 
-Low tree canopy coverage and greenness 
-High urban development and population 
-Primarily residential uses 
+Moderate terrain, mostly in the San Fernando and San Gabriel Valleys  
+Relatively hotter and wetter weather  
+Low tree canopy coverage and greenness  
+High urban development and population  
+Primarily residential uses  
 
 **Type 7**: Basin less-developed areas
 
-Flat terrain, mostly in the Los Angeles Basin 
-Milder and dryer weather 
-Low tree canopy coverage and greenness 
-High urban development and population 
-Primarily residential uses 
+Flat terrain, mostly in the Los Angeles Basin  
+Milder and dryer weather  
+Low tree canopy coverage and greenness  
+High urban development and population  
+Primarily residential uses  
 
 **Type 8**: Most-developed areas 
 
-Very high urban development and population 
-Far from regional parks with natural vegetation 
-Very low tree canopy coverage and greenness 
-Mixed land use 
+Very high urban development and population  
+Far from regional parks with natural vegetation  
+Very low tree canopy coverage and greenness  
+Mixed land use  
 
 **Type 9**: Furthest from regional parks with natural vegetation 
 
-High urban development and population 
-Very high traffic density and noise 
-Low tree canopy coverage and greenness 
-Furthest from regional parks with natural vegetation 
-Mixed land use 
+High urban development and population  
+Very high traffic density and noise  
+Low tree canopy coverage and greenness  
+Furthest from regional parks with natural vegetation  
+Mixed land use  
 
