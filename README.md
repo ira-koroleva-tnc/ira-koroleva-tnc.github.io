@@ -54,10 +54,10 @@ The additional canopy cover needed (%) to close the UHI Gap.
 
 **Type 1**: Low development with natural vegetation 
 
-Very high natural vegetation, primarily grassland and forest /n
-Very steep terrain  /n
-Very low urban development and low population density  /n
-Relatively high precipitation for the Los Angeles area  /n
+Very high natural vegetation, primarily grassland and forest  
+Very steep terrain  
+Very low urban development and low population density  
+Relatively high precipitation for the Los Angeles area  
 
 **Type 2**: Dams, reservoirs, and wetlands 
 
