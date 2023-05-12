@@ -2,17 +2,17 @@
 
 ## Planting Stormwater Solutions
 
-**Benefit of Adding Habitat**: 
-A function of Convertible Lands as well as lands that are not Habitat. This can be expressed as a proportion, or by area. A high proportion of existing Convertible Lands and/or a low proportion of Habitat will offer a greater benefit of adding Habitat. 
-
-**Benefit of Expanding Habitat**: 
-A function of Convertible Lands AND Habitat, as well as the inverse of lands that are not Habitat. This can be expressed as a proportion, or by area. A low proportion of existing Habitat and/or a low proportion of Convertible Lands will offer a low benefit of Habitat expansion. Given blocks with a mixture of existing Habitat and Convertible Lands, those with a greater proportion of Convertible Lands will derive a greater benefit from Habitat expansion. 
-
 **Acres of Opportunity**: 
-A function of Convertible Lands. We assume these lands can be converted into Habitat. High hectarage or proportion of Convertible Lands offers greater opportunity to increase Habitat for plants and dependent animals. 
+Certain land cover types, such as areas that do not have buildings or roads but are no longer natural, are more easily converted to permeable or vegetated cover (Habitat). We classify these areas as Opportunity, and report the acres of Opportunity within each Census Block.
 
 **Opportunity, proportional**: 
-This is a function of Convertible Lands. We assume these lands can be converted into Habitat. High hectarage or proportion of Convertible Lands offers greater opportunity to increase Habitat for plants and dependent animals. 
+The proportional amount of Opportunity within each Census Block. 
+
+**Benefit of Adding Habitat**: 
+Census Blocks with higher scores are areas that have higher amounts of Opportunity but have little or no existing vegetated cover. These are areas that would see the highest gain from the addition of vegetated cover as they are lacking all of the benefits that vegetation and tree canopy provide. Examples are residential areas with little to no vegetation or tree canopy, or commercial developments that have large parking lots. Adding habitat may be conceptualized as the creation of a new “island” of vegetated habitat within the “sea” of the urban matrix. This new island could support pollinators and other small animals and serve as a “stepping stone” that allows birds, other flying creatures, and highly mobile animals and plants to travel across more of the region. The values are given as proportions, with Median = 0.146 and SD = 0.157.
+ 
+**Benefit of Expanding Habitat**: 
+Census Blocks with higher scores are areas that have higher amounts of Opportunity along with some existing vegetated cover, such as residential areas near natural open spaces or commercial areas near vegetated parks. Expanding habitat would increase the size of an existing vegetated "island” within the urban matrix, enabling it to support larger populations of animals and perhaps additional species that require larger habitat patches for survival. The values are given as proportions, with Median = 0.101 and SD = 0.095.
 
 **Pollutant Load**: 
 We developed a unitless, area-weighted and normalized Block Pollutant Loading metric by summing estimated loading for fecal coliform, Total Copper (Cu), Total Lead (Pb) and Total Zinc (Zn) for land use polygons within each block. Fecal coliform and metals were chosen because they are common pollutants for which Total Maximum Daily Loads are in place in Los Angeles and they are indicative of exposure risk to humans and in-stream organisms respectively. The metric doesn’t provide information related to absolute loading, but rather makes relative comparisons between blocks based on land use and area. Values of 0.5 or greater are considered Very High in terms of pollutant load and thus important areas for prioritization of siting vegetated nature-based solutions. 
