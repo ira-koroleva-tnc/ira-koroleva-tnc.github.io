@@ -25,4 +25,4 @@ To change the characteristic being shown in the chart in the lower part of the d
 
 
 The Identifying Priority Areas tab allows you to identify priority areas based on single characteristics or combinations of characteristics. The boxes on the right side of the screen allow the user to enter threshold or exact values to see the subset of blocks that meet the filter criteria. See the Glossary tab and 
-  <a href="https://www.scienceforconservation.org/products/planting-stormwater-solutions-methodology">planting stormwater solutions methodology</a> for definitions of Social and Public Health Rank, Benefit of Adding Habitat and Benefit of Expanding Habitat. See the video <here> for a tutorial on using this map.
+  <a href="https://www.scienceforconservation.org/products/planting-stormwater-solutions-methodology">planting stormwater solutions methodology</a> for definitions of Social and Public Health Rank, Benefit of Adding Habitat and Benefit of Expanding Habitat. 
