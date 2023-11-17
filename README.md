@@ -1,4 +1,5 @@
 # Glossary
+(Desplázate hacia abajo para leer en español.)
 
 ## Planting Stormwater Solutions
 
@@ -115,4 +116,118 @@ Very high traffic density and noise
 Low tree canopy coverage and greenness  
 Furthest from regional parks with natural vegetation  
 Mixed land use  
+
+# Glosario
+
+## Planting Stormwater Solutions (Plantación de soluciones para aguas pluviales)
+
+**Acres of Opportunity (Acres de Oportunidad)**: 
+Ciertos tipos de cobertura terrestre, como áreas que no tienen edificios ni caminos pero que ya no son naturales, se convierten más fácilmente en cobertura permeable o vegetal (Hábitat). Clasificamos estas áreas como Oportunidad e informamos los acres de Oportunidad dentro de cada Bloque Censal
+
+**Opportunity, proportional (Oportunidad, proporcional)**: 
+La cantidad proporcional de Oportunidad dentro de cada Bloque Censal.
+
+**Benefit of Adding Habitat (Beneficio de agregar hábitat)**: 
+Los bloques censales con puntuaciones más altas son áreas que tienen mayores cantidades de oportunidades pero que tienen poca o ninguna cobertura vegetal. Estas son áreas que verían el mayor beneficio con la adición de cubierta vegetal, ya que carecen de todos los beneficios que brindan la vegetación y el dosel arbóreo. Algunos ejemplos son áreas residenciales con poca o ninguna vegetación o copa de árboles, o desarrollos comerciales que tienen grandes estacionamientos. La adición de hábitat puede conceptualizarse como la creación de una nueva “isla” de hábitat con vegetación dentro del “mar” de la matriz urbana. Esta nueva isla podría sustentar a los polinizadores y otros animales pequeños y servir como un “trampolín” que permita a las aves, otras criaturas voladoras y animales y plantas de gran movilidad viajar por una mayor parte de la región. Los valores se dan como proporciones, con Mediana = 0,146 y DE = 0,157.
+ 
+**Benefit of Expanding Habitat (Beneficio de la expansión de Habitat)**: 
+Los bloques censales con puntuaciones más altas son áreas que tienen mayores cantidades de oportunidades junto con alguna cobertura vegetal existente, como áreas residenciales cerca de espacios naturales abiertos o áreas comerciales cerca de parques con vegetación. La expansión del hábitat aumentaría el tamaño de una "isla" con vegetación existente dentro de la matriz urbana, permitiéndole sustentar poblaciones más grandes de animales y quizás especies adicionales que requieren parches de hábitat más grandes para sobrevivir. Los valores se dan como proporciones, con Mediana = 0,101 y DE = 0,095.
+
+**Pollutant Load (Carga Contaminante)**: 
+Desarrollamos una métrica de carga de contaminantes en bloques normalizada, ponderada por área y sin unidades sumando la carga estimada de coliformes fecales, cobre total (Cu), plomo total (Pb) y zinc total (Zn) para los polígonos de uso de la tierra dentro de cada bloque. Se eligieron coliformes fecales y metales porque son contaminantes comunes para los cuales existen cargas diarias máximas totales en Los Ángeles y son indicativos del riesgo de exposición para humanos y organismos en la corriente, respectivamente. La métrica no proporciona información relacionada con la carga absoluta, sino que hace comparaciones relativas entre bloques según el uso del suelo y el área. Los valores de 0,5 o más se consideran muy altos en términos de carga contaminante y, por lo tanto, áreas importantes para la priorización de la ubicación de soluciones basadas en la naturaleza con vegetación.
+
+**Social and Public Health Rank - SPH (Rango Social y de Salud Pública)**: 
+El puntaje SPH es el puntaje promedio de seis indicadores, calculados a nivel de zona censal: carga de contaminación de la calidad del aire, dificultades económicas, calor urbano, falta de espacios verdes, raza/etnicidad y densidad de población. Para generar un indicador de carga de contaminación de la calidad del aire, utilizamos el indicador de “carga de contaminación” de CalEnviroScreen, que incluye datos subyacentes sobre concentraciones de ozono, concentraciones de PM 2,5, emisiones de PM diésel, densidad de tráfico y emisiones tóxicas de las instalaciones. El índice de dificultades económicas incluye datos subyacentes en forma porcentual para: viviendas hacinadas (unidades de vivienda ocupadas con más de una persona por habitación), población que vive por debajo del umbral federal de pobreza, desempleados entre personas mayores de 16 años, personas mayores de 25 años con menos de educación secundaria, población menor de 18 años o mayor de 64 años e ingreso per cápita. El indicador de Calor Urbano es el número de días donde la temperatura mínima superó los 70◦ F, transformado a 0-10. Para generar un indicador de falta de espacio verde, utilizamos las capas de copa de árboles, arbustos altos y pasto/arbustos del conjunto de datos de cobertura terrestre de LARIAC como espacio verde. Calculamos el rango percentil de la proporción de espacios verdes, es decir, la cantidad de espacios verdes dividida por la cantidad total de tierra en una zona determinada, para todas las zonas. Los sectores con una proporción más alta recibieron una puntuación más alta. El indicador de raza/etnia utiliza datos de la ACS de 2017 e identifica el porcentaje de personas de color (POC) frente a residentes blancos en cada zona (Wander, 2019). Definimos “personas de color” (POC) como una combinación de las siguientes categorías de la encuesta: asiáticos no hispanos, negros no hispanos, hispanos y otros. Generamos un indicador de densidad de población basado en datos del censo sobre densidad de población combinados con datos de viajeros para capturar los impactos del entorno del hogar y el trabajo. Utilizamos datos de población sin procesar de la ACS de 2017 para calcular la densidad (personas por km2) y los convertimos a una puntuación clasificada de 0 a 10. Luego utilizamos un conjunto de datos de viajeros para recalcular la densidad de población en función de los movimientos diarios de los trabajadores y lo convertimos en una puntuación clasificada de 0 a 10. Para cada zona, seleccionamos el puntaje (con o sin viajeros) que tuviera el valor más alto y asignamos ese valor como indicador de densidad de población de la zona. Calculamos la clasificación promedio de los indicadores anteriores. Estos promedios oscilan entre 1,3 y 8,7. Calculamos rupturas naturales que identificaron los tramos con puntuación más alta que tienen valores de 7 o más.
+
+
+## Afforestation and Urban Heat (Forestación y Calor Urbano)
+
+**Tree Gap Closing Score (Puntuación de cierre de la brecha de árboles)**:
+Puntuación clasificada (0-100) que identifica la idoneidad de los grupos de bloques del censo para la plantación de árboles para abordar la disparidad de la cobertura arbórea.
+
+**UHI Gap Closing Score (Puntuación de cierre de brecha UHI)**:
+Puntuación clasificada (0-100) que identifica la idoneidad de los grupos de bloques del censo para la plantación de árboles para abordar la disparidad del UHI.
+
+**Current UHI (IUH actual)**:
+El impacto medio de la isla de calor urbana en verano.
+
+**UHI Gap (Brecha UHI)**:
+La diferencia en UHI entre este grupo de bloques censales y el cuartil de ingresos más alto de la ciudad.
+
+**Current Tree Canopy (Dosel de árboles actual)**:
+El porcentaje del área del grupo de bloques del censo cubierta por copa de árbol.
+
+**Tree Gap (Separación de árboles)**:
+La diferencia en el porcentaje de cobertura arbórea entre este grupo de bloques censales y el cuartil de ingresos más alto de la ciudad.
+
+**Tree Canopy Needed to Close UHI Gap (Se necesita copa de árbol para cerrar la brecha UHI)**:
+La cubierta de dosel adicional necesaria (%) para cerrar la brecha UHI.
+
+
+## Biodiversity Assessment in Los Angeles (Evaluación de la biodiversidad en Los Ángeles)
+### Tipología Urbana
+
+**Tipo 1**: Bajo desarrollo con vegetación natural
+
+Vegetación natural muy alta, principalmente pastizales y bosques.
+Terreno muy empinado
+Muy bajo desarrollo urbano y baja densidad de población.
+Precipitaciones relativamente altas para el área de Los Ángeles
+
+**Tipo 2**: Represas, embalses y humedales
+
+Baja cobertura vegetal
+Terreno nivelado
+Muy bajo desarrollo urbano
+
+**Tipo 3**: Áreas de estribaciones
+
+Barrios prósperos y con buena vegetación
+Usos principalmente residenciales
+Terreno moderado
+Cobertura de obra y densidad de población moderadas
+
+**Tipo 4**: Parques urbanos y espacios abiertos
+
+Cobertura alta de copas de árboles y espacios verdes abiertos
+Bajo desarrollo urbano
+Principalmente parques, cementerios y campos de golf.
+
+**Tipo 5**: Áreas arteriales del valle
+
+Mayor densidad de tráfico y ruido de tráfico.
+Alto porcentaje de superficie impermeable
+Baja en vegetación
+Principalmente carreteras y barrios aledaños.
+
+**Tipo 6**: Áreas menos desarrolladas del valle
+
+Terreno moderado, principalmente en los valles de San Fernando y San Gabriel.
+Clima relativamente más cálido y húmedo
+Cobertura baja de copas de árboles y verdor
+Alto desarrollo urbano y población.
+Usos principalmente residenciales
+
+**Tipo 7**: Áreas de cuenca menos desarrolladas
+
+Terreno plano, principalmente en la cuenca de Los Ángeles.
+Clima más templado y seco
+Cobertura baja de copas de árboles y verdor
+Alto desarrollo urbano y población.
+Usos principalmente residenciales
+
+**Tipo 8**: Áreas más desarrolladas
+
+Muy alto desarrollo urbano y población.
+Lejos de parques regionales con vegetación natural.
+Cobertura de copa de árbol y verdor muy bajos
+Uso de suelo mixto
+
+**Tipo 9**: Más alejado de parques regionales con vegetación natural
+
+Alto desarrollo urbano y población.
+Muy alta densidad de tráfico y ruido.
+Cobertura baja de copas de árboles y verdor
+Lo más alejado de los parques regionales con vegetación natural.
+Uso de suelo mixto
 
