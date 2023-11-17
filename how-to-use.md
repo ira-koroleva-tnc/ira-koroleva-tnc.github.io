@@ -21,7 +21,7 @@ Estos tres paneles y un mapa interactivo muestran múltiples características de
 
 **Forestación y Calor Urbano (Afforestation and Urban Heat)** -  un enfoque para plantar árboles estratégicamente en las áreas urbanas de California con el objetivo de reducir los impactos de la Isla de Calor Urbano (Urban Heat Island - UHI) y al mismo tiempo secuestrar carbono y beneficiar a las comunidades desfavorecidas y de bajos ingresos. [Enlace a la publicación]( https://www.sciencedirect.com/science/article/abs/pii/S2210670722001536)
 
-**Evaluación de la Biodiversidad en Los Ángeles (Evaluación de la Biodiversidad en Los Ángeles)** - una metodología para evaluar la biogeografía urbana mediante análisis de conglomerados de múltiples variables. [Enlace a la publicación](https://www.scienceforconservation.org/products/BAILA)
+**Evaluación de la Biodiversidad en Los Ángeles (Biodiversity Assessment in Los Angeles)** - una metodología para evaluar la biogeografía urbana mediante análisis de conglomerados de múltiples variables. [Enlace a la publicación](https://www.scienceforconservation.org/products/BAILA)
 
 Cada uno de estos estudios identificó características, a través de múltiples temas, de la región del Gran Los Ángeles. Estas características se pueden utilizar para identificar, describir y priorizar la necesidad de ubicar soluciones basadas en la naturaleza. Estos paneles y el mapa interactivo iluminan estos valores para mejorar la capacidad de los estudios para llegar e informar a una amplia audiencia de tomadores de decisiones, defensores y el público.
 
